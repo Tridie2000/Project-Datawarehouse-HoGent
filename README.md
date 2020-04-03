@@ -10,6 +10,13 @@ This is our solution of the datawarehouse project.
   - Select "Manage Extensions"
   - Search for "SQL Server Integration Projects
   
+## FAQ
+- Cannot create Database Diagram because insufficient permissions:
+  - Right click on the database
+  - Click on Properties
+  - Click on Files
+  - Type 'sa' in the owner field
+  
 ## Contributing
 - Fork the repository
 - Add this repository as a remote called "upstream"
